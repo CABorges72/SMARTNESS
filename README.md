@@ -1,4 +1,4 @@
-# SMARTNESS
+# SMARTNESS (dataSet MalwAre fRom The wiNdows opErating SyStem)
 Dataset de OpCodes de malwares reais e ativos do sistema operacional Windows
 Inicialmente, optou-se por uma coleta ampla de 20.371 malwares, obtidos através do repositório VirusShare (https://virusshare.com/). Conforme pode ser visto abaixo, essas amostras foram categorizadas em sete famílias distintas de malwares, visando cobrir um espectro amplo de comportamentos maliciosos. A compatibilidade dos artefatos com o padrão executável da plataforma Microsoft Windows foi verificada utilizando a biblioteca PEFile (https://github.com/erocarrera/pefile), uma escolha técnica que assegura a pertinência das amostras dentro do escopo desta pesquisa.
 
