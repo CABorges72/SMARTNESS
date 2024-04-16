@@ -25,5 +25,7 @@ Para a desmontagem dos malwares, foi desenvolvido um script Python, visando a au
 Após a desmontagem, o foco se volta para a extração das sequências de Opcodes dos artefatos maliciosos. Neste trabalho, concentra-se exclusivamente na sequência de Opcodes, como `"mov", "push", "call", "or", extraída e armazenada para análises subsequentes.
 
 
+Os arquivos concatenados por classe (denominados sumários) estão disponibilizados no link abaixo:
+https://drive.google.com/drive/folders/1SM_qG3IBSSM9ZSSaURFhB9jTGapf3K1g?usp=drive_link
 
 
